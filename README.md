@@ -1,3 +1,9 @@
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Psycho-Octopus&layout=compact&theme=dark)
+# CJ Taylor
 
-<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/0ae0a86e-d5fd-471f-b9ca-5e2117d5e18f" />
+## Languages and Tools
+<img align="left" alt="Neovim" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg"/>
+<img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
+<img align="left" alt="Lua" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg"/>
+<img align="left" alt="Rust" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg"/>
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Psycho-Octopus&layout=compact&theme=dark)
