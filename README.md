@@ -1,6 +1,6 @@
 # CJ Taylor
 Systems programming enthusiast.
-Creating a programming language (Solus)
+Vim enthusiast.
 
 ---
 
