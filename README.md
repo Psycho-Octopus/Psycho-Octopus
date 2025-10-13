@@ -1,6 +1,6 @@
 # CJ Taylor
-Systems programming enthusiast.
-Vim enthusiast.
+Systems programming and Vim enthusiast.
+
 
 ---
 
